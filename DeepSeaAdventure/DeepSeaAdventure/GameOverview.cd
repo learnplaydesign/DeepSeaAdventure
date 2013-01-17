@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DeepSeaAdventure.creature">
+    <Position X="0.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAEAgAAAAAAAAEACAAABACAIAAAABAAAAg=</HashCode>
+      <FileName>creature.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DeepSeaAdventure.gameObject" Collapsed="true">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAACQgAAAAgAAAADABgAAAGAKQAAAGAAAAQAEBAA=</HashCode>
+      <FileName>gameObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DeepSeaAdventure.gameState">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYEEAAAAAAAAgAAAAAAAAAAAAAAAAACAIAAAAAAAAQ=</HashCode>
+      <FileName>gameState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DeepSeaAdventure.Projectile">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAUgCAAAAAAAggAAAAAACAAAAAAEQAAAAAAQAAAAAAA=</HashCode>
+      <FileName>Projectile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DeepSeaAdventure.Score">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAEAAAAAAAAIAAAAAABAAACAQAAAAAAAAAA=</HashCode>
+      <FileName>Score.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DeepSeaAdventure.soundManager">
+    <Position X="8.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAQAAAAAAAAgIAABEAAQQQAAAAAAAAAA=</HashCode>
+      <FileName>soundManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DeepSeaAdventure.textureManager">
+    <Position X="6.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAGAAAAAEAAAQAAAAAAAAAAAABAAAAQQAAAAAAgAAA=</HashCode>
+      <FileName>textureManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DeepSeaAdventure.Weapon">
+    <Position X="10" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgIAACAAAAAAAAAEACAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Weapon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

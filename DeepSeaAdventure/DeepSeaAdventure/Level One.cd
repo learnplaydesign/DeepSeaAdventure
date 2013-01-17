@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DeepSeaAdventure.Game1" Collapsed="true">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAEEAAAAAAAwAAIAQAAAAEAAAAAAgAAAAAAAAAAAQ=</HashCode>
+      <FileName>Game1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DeepSeaAdventure.gameObject" Collapsed="true">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAACQgAAAAgAAAADABgAAAGAKQAAAGAAAAQAEBAA=</HashCode>
+      <FileName>gameObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DeepSeaAdventure.gameState" Collapsed="true">
+    <Position X="11.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYEEAAAAAAAAgAAAAAAAAAAAAAAAAACAIAAAAAAAAQ=</HashCode>
+      <FileName>gameState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DeepSeaAdventure.textureManager" Collapsed="true">
+    <Position X="9.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAGAAAAAEAAAQAAAAAAAAAAAABAAAAQQAAAAAAgAAA=</HashCode>
+      <FileName>textureManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DeepSeaAdventure.soundManager" Collapsed="true">
+    <Position X="7.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAQAAAAAAAAgIAABEAAQQQAAAAAAAAAA=</HashCode>
+      <FileName>soundManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DeepSeaAdventure.Score" Collapsed="true">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAEAAAAAAAAIAAAAAABAAACAQAAAAAAAAAA=</HashCode>
+      <FileName>Score.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DeepSeaAdventure.creature">
+    <Position X="4" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAEAgAAAAAAAAEACAAABACAIAAAABAAAAg=</HashCode>
+      <FileName>creature.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DeepSeaAdventure.levelOne">
+    <Position X="11.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAaBEAgAAAAAAgAAgAAASAAAAAAAAAAAABQAIAJAAQQ=</HashCode>
+      <FileName>States\levelOne.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DeepSeaAdventure.FishPellet">
+    <Position X="0.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQEAAAAAAAAAAAAAAAAAIAIAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Objects\FishPellet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DeepSeaAdventure.geraldLevelOne">
+    <Position X="2.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgAAAAAAAAAAAAAgAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Objects\Creatures\geraldLevelOne.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DeepSeaAdventure.Shark">
+    <Position X="5.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Objects\Creatures\Shark.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

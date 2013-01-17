@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DeepSeaAdventure.Weapon" Collapsed="true">
+    <Position X="7.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgIAACAAAAAAAAAEACAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Weapon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DeepSeaAdventure.Projectile" Collapsed="true">
+    <Position X="7.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAUgCAAAAAAAggAAAAAACAAAAAAEQAAAAAAQAAAAAAA=</HashCode>
+      <FileName>Projectile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DeepSeaAdventure.squidGun">
+    <Position X="5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Weapons\squidGun.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DeepSeaAdventure.sharkCannon">
+    <Position X="9.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Weapons\sharkCannon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DeepSeaAdventure.RocketLauncher">
+    <Position X="14" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Weapons\RocketLauncher.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DeepSeaAdventure.novalauncher">
+    <Position X="0.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Weapons\novalauncher.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DeepSeaAdventure.laserShot">
+    <Position X="2.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Weapons\laserShot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DeepSeaAdventure.laserbeam">
+    <Position X="7.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Weapons\laserbeam.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DeepSeaAdventure.crabGun">
+    <Position X="11.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Weapons\crabGun.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DeepSeaAdventure.shell">
+    <Position X="11.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Weapons\Projectiles\shell.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DeepSeaAdventure.sharkNova" Collapsed="true">
+    <Position X="7.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Weapons\Projectiles\sharkNova.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DeepSeaAdventure.rocket">
+    <Position X="2.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Weapons\Projectiles\rocket.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DeepSeaAdventure.nova">
+    <Position X="7.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Weapons\Projectiles\nova.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DeepSeaAdventure.laser">
+    <Position X="9.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Weapons\Projectiles\laser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DeepSeaAdventure.ink">
+    <Position X="14" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Weapons\Projectiles\ink.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DeepSeaAdventure.explosion">
+    <Position X="0.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAIAIAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Weapons\Projectiles\explosion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DeepSeaAdventure.beam">
+    <Position X="5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Weapons\Projectiles\beam.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

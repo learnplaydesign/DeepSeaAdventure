@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DeepSeaAdventure.geraldLevelTwo">
+    <Position X="0.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAABAAAgEAAAAAAAAgAAAgAACAAAAAAACAAAg=</HashCode>
+      <FileName>Objects\Creatures\geraldLevelTwo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DeepSeaAdventure.Squid">
+    <Position X="5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAIAAAAAAAAAAAAAAAACAAAABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Objects\Creatures\Squid.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DeepSeaAdventure.hermitCrab">
+    <Position X="9.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAACAAAABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Objects\Creatures\hermitCrab.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DeepSeaAdventure.Jellyfish">
+    <Position X="2.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Objects\Creatures\Jellyfish.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DeepSeaAdventure.SharkLevelTwo">
+    <Position X="7.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Objects\Creatures\SharkLevelTwo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DeepSeaAdventure.creature" Collapsed="true">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAEAgAAAAAAAAEACAAABACAIAAAABAAAAg=</HashCode>
+      <FileName>creature.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
